@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./developer.png" alt="Developer working with programming languages" width="700"/>
+</p>
+
 # Hi 👋, I'm Priti nandkumar bedre 
 
 ### A budding Java developer
