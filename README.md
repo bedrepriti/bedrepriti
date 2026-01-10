@@ -1,112 +1,22 @@
-<h1 align="center">Hi 👋, I'm Priti Bedre</h1>
-<h3 align="center">Java Developer</h3>
+# Hi 👋, I'm Priti nandkumar bedre 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bedrepriti&label=Profile%20Views&color=0e75b6&style=flat" alt="bedrepriti" />
-</p>
+### A budding Java developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Developer;MERN+Stack+Learner;Problem+Solver;Open+Source+Enthusiast" />
-</p>
+- 🔭 I'm currently working on **I’m currently working on strengthening my problem-solving skills using Data Structures & Algorithms in Java.**
 
----
+- 🌱 I'm currently learning **Proficient in Core Java and currently expanding skills in DSA and algorithmic problem-solving.**
 
-## 🚀 About Me
-- 🔭 I’m currently working on **a MERN Stack project**
-- 🌱 I’m currently learning **GraphQL and TypeScript**
-- 👯 I’m looking to collaborate on **open source projects**
-- 🤝 I’m looking for help with **learning system design**
-- 💬 Ask me about **React, Node.js, and web development**
-- 📫 How to reach me: **pritinbedre22@gmail.com**
-- ⚡ Fun fact: **I think I’m funny 😄**
+- 👯 I'm looking to collaborate on **I’m looking to collaborate on Java-based projects, backend development, and problem-solving focused applications, where I can learn industry best practices and contribute clean, efficient code.**
 
----
+- 🤝 I'm looking for help with **I’m looking for help with improving my problem-solving skills and mastering Data Structures & Algorithms in Java.**
 
-## 🛠️ Skills & Technologies
+- 💬 Ask me about **Ask me about Full Stack Development, Java, Advanced Java, JavaScript, MongoDB, and basic React.**
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+- 📫 How to reach me **pritinbedre22@gmail.com**
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+- ⚡ Fun fact **I’m always learning something new in tech every week.
+I’m obsessed with learning one new coding trick every day.**
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bedrepriti&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedrepriti&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedrepriti&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bedrepriti&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/bedrepriti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🔗 Links
-<p>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://yourblog.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/your-resume" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⚡ Motto
-> *Consistency + Curiosity = Growth in Tech* 🚀
