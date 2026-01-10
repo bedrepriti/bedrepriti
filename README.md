@@ -101,10 +101,11 @@ I’m obsessed with learning one new coding trick every day.**
 <a href="https://www.geeksforgeeks.org/sql-tutorial/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
 </a>
-### 🗄️ Database Management System (DBMS)
+
+ 🗄️ Database Management System (DBMS)
 
 <a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  
 </a>
 
 ![DBMS](https://img.shields.io/badge/DBMS-SQL%20%7C%20Normalization%20%7C%20ACID-blue)
