@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="developer.png.png" alt="Developer working with programming languages" width="700"/>
+  <img src="developer.png" alt="Developer working with programming languages" width="230"/>
 </p>
 
 # Hi 👋, I'm Priti nandkumar bedre 
@@ -22,5 +22,68 @@
 I’m obsessed with learning one new coding trick every day.**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+<p align="left">
+
+<!-- Angular -->
+<a href="https://angular.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
+</a>
+
+<!-- C -->
+<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
+</a>
+
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+</a>
+
+<!-- HTML -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.geeksforgeeks.org/mongodb-tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.geeksforgeeks.org/mysql-tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+</a>
+
+<!-- PHP -->
+<a href="https://www.php.net/docs.php" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php" width="40" height="40"/>
+</a>
+
+<!-- React -->
+<a href="https://react.dev/learn" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+</a>
+
+<!-- Spring -->
+<a href="https://spring.io/guides" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
+</a>
+
+</p>
+
 
