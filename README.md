@@ -83,6 +83,23 @@ I’m obsessed with learning one new coding trick every day.**
 <a href="https://spring.io/guides" target="_blank">
   <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
 </a>
+<a href="https://docs.oracle.com/javase/tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+</a>
+<a href="https://hibernate.org/orm/documentation/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40"/>
+</a>
+<a href="https://www.geeksforgeeks.org/sql-tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+</a>
+### 🗄️ Database Management System (DBMS)
+![DBMS](https://img.shields.io/badge/DBMS-SQL%20%7C%20Normalization%20%7C%20ACID-blue)
+
+### 🖥️ Operating System (OS)
+![Operating System](https://img.shields.io/badge/Operating%20System-Processes%20%7C%20Memory%20%7C%20Scheduling-green)
+
+
+
 
 </p>
 
