@@ -20,6 +20,15 @@
 
 - ⚡ Fun fact **I’m always learning something new in tech every week.
 I’m obsessed with learning one new coding trick every day.**
+<p align="left">
+  <a href="https://github.com/bedrepriti/Priti-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1H79LZOz9UDX87AcowMW9uOBE193K4awN/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -93,7 +102,14 @@ I’m obsessed with learning one new coding trick every day.**
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
 </a>
 ### 🗄️ Database Management System (DBMS)
+
+<a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+</a>
+
 ![DBMS](https://img.shields.io/badge/DBMS-SQL%20%7C%20Normalization%20%7C%20ACID-blue)
+
+
 
 ### 🖥️ Operating System (OS)
 ![Operating System](https://img.shields.io/badge/Operating%20System-Processes%20%7C%20Memory%20%7C%20Scheduling-green)
