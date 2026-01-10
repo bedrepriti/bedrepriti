@@ -24,9 +24,11 @@ I’m obsessed with learning one new coding trick every day.**
   <a href="https://github.com/bedrepriti/Priti-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1H79LZOz9UDX87AcowMW9uOBE193K4awN/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1o8OvelkpX9abUn-oacJP5U7K1V-2Pjwt/preview" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
+</p>
+
 </p>
 
 
