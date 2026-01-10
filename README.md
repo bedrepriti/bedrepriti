@@ -2,17 +2,17 @@
 
 ### A budding Java developer
 
-- 🔭 I'm currently working on **I’m currently working on strengthening my problem-solving skills using Data Structures & Algorithms in Java.**
+- 🔭 **I’m currently working on strengthening my problem-solving skills using Data Structures & Algorithms in Java.**
 
-- 🌱 I'm currently learning **Proficient in Core Java and currently expanding skills in DSA and algorithmic problem-solving.**
+- 🌱 **Proficient in Core Java and currently expanding skills in DSA and algorithmic problem-solving.**
 
-- 👯 I'm looking to collaborate on **I’m looking to collaborate on Java-based projects, backend development, and problem-solving focused applications, where I can learn industry best practices and contribute clean, efficient code.**
+- 👯  **I’m looking to collaborate on Java-based projects, backend development, and problem-solving focused applications, where I can learn industry best practices and contribute clean, efficient code.**
 
-- 🤝 I'm looking for help with **I’m looking for help with improving my problem-solving skills and mastering Data Structures & Algorithms in Java.**
+- 🤝  **I’m looking for help with improving my problem-solving skills and mastering Data Structures & Algorithms in Java.**
 
-- 💬 Ask me about **Ask me about Full Stack Development, Java, Advanced Java, JavaScript, MongoDB, and basic React.**
+- 💬  **Ask me about Full Stack Development, Java, Advanced Java, JavaScript, MongoDB, and basic React.**
 
-- 📫 How to reach me **pritinbedre22@gmail.com**
+- 📫 How to reach me**pritinbedre22@gmail.com**
 
 - ⚡ Fun fact **I’m always learning something new in tech every week.
 I’m obsessed with learning one new coding trick every day.**
