@@ -1,129 +1,73 @@
-<p align="center">
-  <img src="developer.png" alt="Developer working with programming languages" width="230"/>
-</p>
+# Hi there 👋, I'm Priti Nandkumar Bedre
 
-# Hi 👋, I'm Priti nandkumar bedre 
+A budding **Full Stack Java Developer** passionate about **problem-solving**, **DSA**, and building **Java-based applications**.
 
-### A budding Java developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritibedre) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pritinbedre22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat)](https://pritibedre.github.io/)
 
-- 🔭 **I’m currently working on strengthening my problem-solving skills using Data Structures & Algorithms in Java.**
+---
 
-- 🌱 **Proficient in Core Java and currently expanding skills in DSA and algorithmic problem-solving.**
+## 🔭 About Me
+- 🔹 Currently strengthening **problem-solving skills** using **Data Structures & Algorithms** in Java  
+- 🔹 Proficient in **Core Java**, learning **Advanced Java, DSA, SQL, React, and Backend Development**  
+- 🔹 Looking to **collaborate on Java-based projects** and contribute clean, efficient code  
+- 🔹 Always learning new coding tricks weekly ⚡  
 
-- 👯  **I’m looking to collaborate on Java-based projects, backend development, and problem-solving focused applications, where I can learn industry best practices and contribute clean, efficient code.**
+---
 
-- 🤝  **I’m looking for help with improving my problem-solving skills and mastering Data Structures & Algorithms in Java.**
+## 🛠️ Languages and Tools
 
-- 💬  **Ask me about Full Stack Development, Java, Advanced Java, JavaScript, MongoDB, and basic React.**
+**Programming Languages:**  
+Java, JavaScript, Python, C  
 
-- 📫 How to reach me**pritinbedre22@gmail.com**
+**Frontend & Backend:**  
+HTML5, CSS3, SCSS, JSP, React, Spring Boot  
 
-- ⚡ Fun fact **I’m always learning something new in tech every week.
-I’m obsessed with learning one new coding trick every day.**
-<p align="left">
-  <a href="https://github.com/bedrepriti/Priti-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1o8OvelkpX9abUn-oacJP5U7K1V-2Pjwt/preview" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
+**Databases & Others:**  
+MySQL, PostgreSQL, MongoDB, DBMS, Linux, Git, Docker  
 
-</p>
+**Tools & Libraries:**  
+Jupyter Notebook, Pandas, OpenCV  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 📂 Projects
 
-<!-- Angular -->
-<a href="https://angular.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
-</a>
+### 1. [ToDo App](https://github.com/bedrepriti/todo-app)  
+**Tech:** Java Servlet + JSP, PostgreSQL  
+A full-featured ToDo App with **Add, Edit, Delete Notes**, and **User Signup/Login**.  
 
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
-</a>
+### 2. [Prakriti Health Predictor](https://github.com/bedrepriti/Prakriti-Health-Predictor)  
+**Tech:** Python, Jupyter Notebook  
+Predicts health patterns using ML models and provides data-driven insights.  
 
-<!-- C -->
-<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
-</a>
+### 3. [Priti Portfolio](https://github.com/bedrepriti/Priti-Portfolio)  
+**Tech:** SCSS, HTML, JS  
+A personal portfolio showcasing projects, skills, and achievements.  
 
-<!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-</a>
+### 4. [DSA-Java](https://github.com/bedrepriti/DSA-Java)  
+**Tech:** Java  
+Collection of DSA problem solutions implemented in Java for practice and learning.  
 
-<!-- Git -->
-<a href="https://git-scm.com/doc" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-</a>
+🔖 **More Projects:** [GitHub Repositories](https://github.com/bedrepriti)  
 
-<!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-</a>
+---
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-</a>
+## 📈 GitHub Stats
+![Priti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedrepriti&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedrepriti&layout=compact&theme=radical)  
 
-<!-- MongoDB -->
-<a href="https://www.geeksforgeeks.org/mongodb-tutorial/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-</a>
+---
 
-<!-- MySQL -->
-<a href="https://www.geeksforgeeks.org/mysql-tutorial/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-</a>
+## 🏆 Contributions
+![Priti's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=bedrepriti&theme=react-dark&hide_border=true)  
 
-<!-- PHP -->
-<a href="https://www.php.net/docs.php" target="_blank">
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40"/>
-</a>
+---
 
-<!-- React -->
-<a href="https://react.dev/learn" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-</a>
+## 📫 How to Reach Me
+[LinkedIn](https://www.linkedin.com/in/pritibedre) | pritinbedre22@gmail.com  
 
-<!-- Spring -->
-<a href="https://spring.io/guides" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
-</a>
-<a href="https://docs.oracle.com/javase/tutorial/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-</a>
-<a href="https://hibernate.org/orm/documentation/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40"/>
-</a>
-<a href="https://www.geeksforgeeks.org/sql-tutorial/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-</a>
+---
 
- 🗄️ Database Management System (DBMS)
-
-<a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
-  
-</a>
-
-![DBMS](https://img.shields.io/badge/DBMS-SQL%20%7C%20Normalization%20%7C%20ACID-blue)
-
-
-
-### 🖥️ Operating System (OS)
-![Operating System](https://img.shields.io/badge/Operating%20System-Processes%20%7C%20Memory%20%7C%20Scheduling-green)
-
-
-
-
-</p>
-
-
-
-
-
-
+⚡ **Fun Fact:** I love exploring **new tech**, solving **challenging DSA problems**, and building **mini projects daily** 🚀
