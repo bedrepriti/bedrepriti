@@ -1,177 +1,98 @@
-👋 Hey there, I'm Priti Nandkumar Bedre
+<!-- Animated Typing Intro -->
+<h1 align="center">👋 Hi, I'm Priti Nandkumar Bedre</h1>
+<h3 align="center">💻 Full Stack Java Developer | ⚡ DSA Enthusiast | 📊 Data Analytics</h3>
 
-• Full Stack Java Developer • DSA Enthusiast • Data Analytics • Java-Based Applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=600&lines=Building+Scalable+Java+Applications...;Solving+DSA+Challenges...;Creating+Data-Driven+Solutions..." alt="Typing SVG"/>
+</p>
 
+---
 
+## 🚀 About Me
 
+- 💻 Full Stack Developer specializing in **Java-based backend systems**  
+- 📊 Data Analyst using **SQL, Python & Machine Learning**  
+- ⚡ Passionate about **Data Structures & Algorithms**  
+- ☁️ Experience deploying apps on **AWS & Render**  
+- 🧠 Always learning new technologies and improving skills
 
+---
 
+## 🧰 Tech Stack
 
-🔥 About Me
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
 
-🎯 Full Stack Developer building scalable Java applications with clean, maintainable code.
-📊 Data Analyst using SQL, Python, and ML for actionable insights and visualization.
-⚡ Problem Solver passionate about DSA challenges and algorithm optimization.
-🚀 Deploy apps with AWS, Render, and CI/CD pipelines.
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,sass" />
 
-🧰 Tech Stack & Tools
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 
-🖥️ Languages
-Java, JavaScript, Python, C
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-🌐 Frontend & Backend
-HTML5, CSS3, SCSS, JSP, React, Spring Boot
+### ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=aws,docker" />
 
-🔥 Cloud & Deployment
-AWS, Render, Docker
+### 📊 Data Analytics
+Python • Pandas • Jupyter Notebook • OpenCV
 
-🗄️ Databases
-MySQL, PostgreSQL, MongoDB
+### 🧪 Developer Tools
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea" />
 
-📊 Data Analytics
-Jupyter Notebook, Pandas, OpenCV
+---
 
-🧪 Dev Tools
-Git, Linux, VS Code, IntelliJ IDEA
+## 📂 Featured Projects
 
-📂 Projects
+| Project | Tech Stack | Description |
+| ------- | ---------- | ----------- |
+| **ToDo App** | Java Servlets + JSP + PostgreSQL | ✅ Add, Edit, Delete Notes & User Authentication |
+| **Prakriti Health Predictor** | Python + Jupyter Notebook | 📈 Predicts health patterns using ML models |
+| **Priti Portfolio** | HTML + SCSS + JavaScript | 🌐 Responsive portfolio showcasing projects & skills |
+| **DSA in Java** | Java | 💻 Collection of DSA solutions implemented in Java |
 
-ToDo App
- – Java Servlet + JSP, PostgreSQL
-✅ Add, Edit, Delete Notes & User Authentication
+🔗 [Explore More Repositories](https://github.com/bedrepriti)
 
-Prakriti Health Predictor
- – Python, Jupyter Notebook
-📈 Predicts health patterns using ML models for personalized insights
+---
 
-Priti Portfolio
- – SCSS, HTML, JS
-🌐 Responsive portfolio showcasing projects, skills, and achievements
+## 📈 GitHub Stats
 
-DSA-Java
- – Java
-💻 Collection of DSA solutions implemented in Java
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bedrepriti&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedrepriti&theme=radical" />
+</p>
 
-🔖 Explore more: GitHub Repositories
+---
 
-📈 GitHub Stats
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bedrepriti&theme=radical&no-frame=true&no-bg=false&margin-w=10" />
+</p>
 
+---
 
+## 🌱 Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bedrepriti&theme=react-dark&hide_border=true" />
+</p>
 
+---
 
-🏆 Contributions
+## 🤝 Let's Connect
 
-🤝 Let's Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priti-bedre-182327237/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bedrepriti)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/bedrepriti/Priti-Portfolio)  
+📧 pritinbedre22@gmail.com  
 
-🚀 Ready to build amazing projects together!
+---
 
-LinkedIn
- | ✉️ pritinbedre22@gmail.com
- | Portfolio
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bedrepriti/count.svg" />
+</p>
 
-"Let's connect and make some awesome things happen..."
+---
 
-If you want, I can also add animated skill icons for each section (like coding, cloud, DB, analytics) so it looks like a professional portfolio landing page right on GitHub, similar to top dev profiles.
-
-Do you want me to do that next?
-
-yes
-
-Awesome! Let’s take it up a notch and make your README fully dynamic and visually appealing with animated skill icons, badges, and a portfolio-like section. Here’s the upgraded version you can directly use on GitHub:
-
-👋 Hey there, I'm Priti Nandkumar Bedre
-
-• Full Stack Java Developer • DSA Enthusiast • Data Analytics • Java-Based Applications
-
-
-
-
-
-
-🔥 About Me
-
-🎯 Full Stack Developer building scalable Java applications with clean, maintainable code.
-📊 Data Analyst using SQL, Python, and ML for actionable insights and visualization.
-⚡ Problem Solver passionate about DSA challenges and algorithm optimization.
-🚀 Deploy apps with AWS, Render, and CI/CD pipelines.
-
-🧰 Tech Stack & Tools
-🖥️ Languages
-
-
-
-
-
-
-
-
-🌐 Frontend & Backend
-
-
-
-
-
-
-
-
-
-
-🔥 Cloud & Deployment
-
-
-
-
-
-
-🗄️ Databases
-
-
-
-
-
-
-📊 Data Analytics
-
-
-
-
-
-
-🧪 Dev Tools
-
-
-
-
-
-
-
-
-📂 Projects
-Project	Tech Stack	Description
-ToDo App
-	Java Servlet + JSP, PostgreSQL	✅ Add, Edit, Delete Notes & User Authentication
-Prakriti Health Predictor
-	Python, Jupyter Notebook	📈 Predicts health patterns using ML models
-Priti Portfolio
-	SCSS, HTML, JS	🌐 Responsive portfolio showcasing projects, skills, achievements
-DSA-Java
-	Java	💻 Collection of DSA solutions implemented in Java
-
-🔖 Explore more: GitHub Repositories
-
-📈 GitHub Stats
-
-
-
-
-🏆 Contributions
-
-🤝 Let's Connect & Collaborate
-
-🚀 Ready to build amazing projects together!
-
-LinkedIn
- | ✉️ pritinbedre22@gmail.com
- | Portfolio
-
-"Let's connect and make some awesome things happen..."
+⭐ *"Building impactful software through clean code, strong logic, and continuous learning."*
