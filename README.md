@@ -66,15 +66,25 @@ Python • Pandas • Jupyter Notebook • OpenCV
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bedrepriti&theme=radical&no-frame=true&no-bg=false&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bedrepriti&theme=radical&no-bg=false&no-frame=false" />
 </p>
 
 ---
 
 ## 🌱 Contribution Graph
+
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=bedrepriti&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bedrepriti/count.svg" />
 </p>
 
 ---
@@ -84,14 +94,7 @@ Python • Pandas • Jupyter Notebook • OpenCV
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priti-bedre-182327237/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bedrepriti)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/bedrepriti/Priti-Portfolio)  
-📧 pritinbedre22@gmail.com  
-
----
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/bedrepriti/count.svg" />
-</p>
+📧 pritinbedre22@gmail.com
 
 ---
 
