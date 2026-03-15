@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer specializing in **Java-based backend systems**  
+- 💻 Full Stack Developer specializing in **Java backend & full-stack applications**  
 - 📊 Data Analyst using **SQL, Python & Machine Learning**  
 - ⚡ Passionate about **Data Structures & Algorithms**  
 - ☁️ Experience deploying apps on **AWS & Render**  
@@ -21,25 +21,51 @@
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="30" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" />
+</p>
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,sass" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" />
+</p>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="30" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
+</p>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
+</p>
 
 ### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=aws,docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="30" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" />
+</p>
 
 ### 📊 Data Analytics
 Python • Pandas • Jupyter Notebook • OpenCV
 
 ### 🧪 Developer Tools
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="30" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" />
+</p>
 
 ---
 
@@ -47,10 +73,10 @@ Python • Pandas • Jupyter Notebook • OpenCV
 
 | Project | Tech Stack | Description |
 | ------- | ---------- | ----------- |
-| **ToDo App** | Java Servlets + JSP + PostgreSQL | ✅ Add, Edit, Delete Notes & User Authentication |
-| **Prakriti Health Predictor** | Python + Jupyter Notebook | 📈 Predicts health patterns using ML models |
-| **Priti Portfolio** | HTML + SCSS + JavaScript | 🌐 Responsive portfolio showcasing projects & skills |
-| **DSA in Java** | Java | 💻 Collection of DSA solutions implemented in Java |
+| **📝 ToDo App** | <img src="https://skillicons.dev/icons?i=java,postgres" height="20" /> | ✅ Add, Edit, Delete Notes & User Authentication |
+| **🧠 Prakriti Health Predictor** | <img src="https://skillicons.dev/icons?i=python,jupyter" height="20" /> | 📈 Predicts health patterns using ML models |
+| **🌐 Priti Portfolio** | <img src="https://skillicons.dev/icons?i=html,css,js" height="20" /> | Responsive portfolio showcasing projects & skills |
+| **💻 DSA in Java** | <img src="https://skillicons.dev/icons?i=java" height="20" /> | Collection of DSA solutions implemented in Java |
 
 🔗 [Explore More Repositories](https://github.com/bedrepriti)
 
